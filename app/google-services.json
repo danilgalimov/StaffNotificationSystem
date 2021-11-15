@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011183287819",
+    "firebase_url": "https://staff-notification-syste-c1cd8.firebaseio.com",
+    "project_id": "staff-notification-syste-c1cd8",
+    "storage_bucket": "staff-notification-syste-c1cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011183287819:android:514585274e9f1b87c5d10e",
+        "android_client_info": {
+          "package_name": "com.staffns.staffnotificationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011183287819-6siqn6q6gk4n1kdv1ndj2tvan17v5623.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvs_rZg-OS19YqJfI9q3qCKp9kkNCI4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011183287819-6siqn6q6gk4n1kdv1ndj2tvan17v5623.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
